@@ -64,3 +64,13 @@ ul{
     background-color: #E5E7EB;
     padding: 100px 250px;
 }
+
+.text{
+    display:flex;
+    flex-direction: column;
+}
+.signupbox{
+    background-color: #3882F6;
+    margin: 100px;
+    display: flex;
+}
