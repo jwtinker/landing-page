@@ -1,2 +1,5 @@
 Home Theater Photo created by Avinash Kumar (https://www.instagram.com/avmaxamaze/)
 search box image created by Raphael Silva (https://www.instagram.com/rs.raphaelsilva/)
+Pointing hand image created by inspire-studio (https://pixabay.com/users/inspire-studio-22128832/)
+download image created by Raphael Silva (https://www.instagram.com/rs.raphaelsilva/)
+screens image created by Monstera Production (https://www.instagram.com/attic_apartment/)

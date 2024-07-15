@@ -42,5 +42,25 @@ ul{
 }
 
 .section-two{
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.image p{
+    width: 200px;
+}
+
+.image-set{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: flex-end;
+}
+
+.section-three{
+    background-color: #E5E7EB;
+    padding: 100px 250px;
 }
